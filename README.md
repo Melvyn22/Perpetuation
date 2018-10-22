@@ -4,6 +4,8 @@ Contains the publications, presentations and other documents pertaining to the g
 ## Publications
 
 ### 2018
+*  [L. Pagnier, P. Jacquod, *Disturbance propagation, inertia location and slow modes in large-scale high voltage power grids, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/inertia)
+*  [M. Tyloo, L. Pagnier, P. Jacquod, *The Key Player Problem in Complex Oscillator Networks and Electric Power Grids: Resistance Centralities Identify Local Vulnerabilities, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/key_players)
 *  [L. Pagnier, P. Jacquod, *How fast can one overcome the paradox of the energy transition? A physico-economic model for the European power grid*, Energy **157** , 550 (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Energy)
 * [M. Tyloo, T. Coletta, P. Jacquod , *Robustness of Synchrony in Complex Networks and Generalized Kirchhoff Indices*, Phys. Rev. Lett. **120** , 084101 (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Kirchhoff)
 * [L. Pagnier, P. Jacquod, *Swissgrid’s Strategic Grid 2025 : an Independent Analysis*, Technical report (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Swissgrid_2025)
@@ -11,6 +13,7 @@ Contains the publications, presentations and other documents pertaining to the g
 * [T. Coletta, P. Jacquod, *Transient Primary Control Effort of AC Electric Power Networks under Line Contingencies*, submitted to the 7th IFAC Workshop on Distributed Estimation and Control in Networked Systems (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/ifac2018)
 * [T. Coletta, P. Jacquod, *Performance Measures in Electric Power Networks under Line Contingenices*, Submitted to EEE Transactions on Control of Network Systems (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramian)
 * [T. Coletta, B. Bamieh, P. Jacquod, *Transient Performance of Electric Power Networks under Colored Noise*, submitted to IEEE Control Systems Letters (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramiannoise)
+
 ### 2017
 * [R. Delabays, T. Coletta, P. Jacquod, *Multistability of phase-locking in equal-frequency Kuramoto models on planar graphs*, J. Math. Phys **58**, 032701  (2017)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/Multistability_of_phase-locking_in_equal-frequency_Kuramoto_models_on_planar_graphs)
 * [T. Coletta, P. Jacquod, *Resistance distance criterion for optimal slack bus selection* (2017)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/Resistance_Distance_Criterion_for_Optimal_Slack_Bus_Selection)
