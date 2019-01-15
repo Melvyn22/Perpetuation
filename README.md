@@ -68,9 +68,6 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ## List of presentations
 
-### 2019
-* [*NREL Brown Bag Talk, Golden Colorado*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/NREL_Golden)
-
 ### 2018
 * [*57th IEEE Conference on Decision and Control, Miami Beach*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/CDC_Miami)
 * [*International School on Informatics and Dynamics in Complex Networks, University of Catania*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Catania_School_Complex_Networks)
