@@ -3,6 +3,8 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ## Publications
 
+### 2019
+
 ### 2018
 *  [L. Pagnier, P. Jacquod, *Disturbance propagation, inertia location and slow modes in large-scale high voltage power grids, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/inertia)
 *  [R. Delabays, P. Jacquod, F. Doerfler, *The Kuramoto model on directed and signed graphs, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Directed_Kuramoto)
@@ -46,6 +48,8 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ## In the News
 
+### 2019
+
 ### 2018
 * [Prix de l’électricité, *Canal 9*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/Electricity_prices_canal9)
 * [Hydroélectricité et prix de l’électricité, *RTS*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/Electricity_prices_canal9)
@@ -67,6 +71,9 @@ Contains the publications, presentations and other documents pertaining to the g
 * [Vote sur la sortie du nucléaire en Suisse, *Radio-Canada*](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/In_the_News/RCANADA_Vote_sortie_nucleaire)
 
 ## List of presentations
+
+### 2019
+* [*NREL Brown Bag Talk, Golden Colorado*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/NREL_Golden)
 
 ### 2018
 * [*57th IEEE Conference on Decision and Control, Miami Beach*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/CDC_Miami)
