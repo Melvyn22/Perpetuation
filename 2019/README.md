@@ -6,7 +6,11 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ### Publications
 
+* None for now
+
 ### In the News
+
+* None for now
 
 ### List of presentations
 

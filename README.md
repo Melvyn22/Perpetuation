@@ -3,8 +3,6 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ## Publications
 
-### 2019
-
 ### 2018
 *  [L. Pagnier, P. Jacquod, *Disturbance propagation, inertia location and slow modes in large-scale high voltage power grids, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/inertia)
 *  [R. Delabays, P. Jacquod, F. Doerfler, *The Kuramoto model on directed and signed graphs, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Directed_Kuramoto)
@@ -47,8 +45,6 @@ Contains the publications, presentations and other documents pertaining to the g
 * [P. Jacquod, M. Büttiker, *Signatures of Majorana Fermions in Hybrid Normal-Superconducting Rings*, Physical Review B **88**, 214409(R) (2013)](https://github.com/GeeeHesso/Perpetuation/tree/master/2013/Papers/Majorana)
 
 ## In the News
-
-### 2019
 
 ### 2018
 * [Prix de l’électricité, *Canal 9*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/Electricity_prices_canal9)
