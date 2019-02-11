@@ -14,6 +14,7 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ### List of presentations
 
+*  [Melvyn Tyloo, *Resistance Centralities Identifie Local Vulnerabilities in Electric Power Grids*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/FEPSET19_Tyloo)
 * [*Grid Science Winter School and Conference, Santa Fe, New Mexico*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Grid_Science_Santa_Fe)
 * [*NREL Brown Bag Talk, Golden Colorado*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/NREL_Golden)
 * [*CCDC Seminar, UC Santa Barbara, California*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/UC_Santa_Barbara)
