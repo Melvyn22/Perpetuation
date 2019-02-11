@@ -5,7 +5,7 @@ Contains the papers, presentations and other documents relative to the group's s
 ### In the news
 
 * [Prix de l’électricité, *Canal 9*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/Electricity_prices_canal9)
-* [Hydroélectricité et prix de l’électricité, *RTS*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/Electricity_prices_canal9)
+* [Hydroélectricité et prix de l’électricité, *RTS*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/HydroelectricityRTS)
 
 * [Hydroélectricité et prix de l’électricité, *RSI*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/In_the_News/HydroelectricityRSI)
 
