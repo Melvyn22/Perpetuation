@@ -244,7 +244,8 @@ for pr_all in presentations:
 
     pres_dict={}
     pres_dict['authors']=''
-    pres_dict['title']=part_1[:part_1.find('*')].rstrip(', ')
+    #pres_dict['title']=part_1[:part_1.find('*')].rstrip(', ')
+    pres_dict['title']=part_1
 
     pres_dict['publisher'] = part_1[part_1.find('*')+1:part_1.find('*',part_1.find('*')+1)].rstrip(', ')
     pres_dict['date'] = pr_all[1]
