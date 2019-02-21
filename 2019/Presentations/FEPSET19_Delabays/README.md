@@ -14,4 +14,4 @@ Dated : February 2019
 
 <!-- keywords: network_stability, Basin escape, Kuramoto, Inertia-->
 
-<!-- link: -->
+<!-- link:-->

@@ -19,7 +19,7 @@ def read_comment(comments, entry, dictionnay, file):
         f_readme = open(file)
         for line in f_readme:
             for comm,key in zip(comments,entry):
-                if line.lower().startswith(comm):
+                if line.lower().startswith(comm) and len(line[len(comm)+1:-4]) > 3:
                     dictionnay[key] = line[len(comm)+1:-4]
 
     except:
@@ -241,6 +241,8 @@ for pr_all in presentations:
     pr = pr_all[0]
     part_1 = pr[pr.find('[')+1:pr.find(']')]
     part_2 = pr[pr.find(']')+2:pr.find(')')]
+    print(part_1)
+    print(part_2)
 
     pres_dict={}
     pres_dict['authors']=''
@@ -252,6 +254,7 @@ for pr_all in presentations:
     pres_dict['tags'] = ''
     pres_dict['display'] = part_1
     pres_dict['url'] = part_2
+    print(pres_dict['url'])
 
     display_temp = pres_dict['display']
 
@@ -292,6 +295,7 @@ for pr_all in presentations:
 
     name='p_'+(str(count).zfill(2))
     count += 1
+    print(pres_dict)
     all_presentations_dict['presentations'][name]=pres_dict
 
 with open('pres.json', 'w') as fp:
