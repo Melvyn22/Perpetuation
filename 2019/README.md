@@ -10,8 +10,8 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ### In the News
 
-* [Conférence Internationale à Champéry, *Canal 9*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/In_the_News/Champéry_canal9)
-* [Conférence Internationale à Champéry, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/In_the_News/Champéry_NF)
+* [Conférence Internationale à Champéry, *Canal 9*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/In_the_News/Champery_canal9)
+* [Conférence Internationale à Champéry, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/In_the_News/Champery_NF)
 * [L'occident doit être exemplaire en matière d'énergie, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/In_the_News/Occident_Exemplaire_NF)
 
 ### List of presentations
