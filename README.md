@@ -3,6 +3,9 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ## Publications
 
+### 2019
+*  [R. Delabays, P. Jacquod, and F. Doerfler, *The Kuramoto Model on Oriented and Signed Graphs*, SIAM J. Applied Dynamical Systems **80**, 458-480 (2019)](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Oriented_Kuramoto)
+
 ### 2018
 *  [L. Pagnier, P. Jacquod, *Disturbance propagation, inertia location and slow modes in large-scale high voltage power grids, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/inertia)
 *  [M. Tyloo, R. Delabays, P. Jacquod, *Noise-Induced Desynchronization and Stochastic Escape from Equilibrium in Complex Networks, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Escape_Criterion)
