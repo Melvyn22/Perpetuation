@@ -6,8 +6,6 @@ Contains the papers, presentations and other documents relative to the group's s
 
 *  [L. Pagnier, P. Jacquod, *Disturbance propagation, inertia location and slow modes in large-scale high voltage power grids, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/inertia)
 
-*  [R. Delabays, P. Jacquod, F. Doerfler, *The Kuramoto model on directed and signed graphs, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Directed_Kuramoto)
-
 *  [M. Tyloo, R. Delabays, P. Jacquod, *Noise-Induced Desynchronization and Stochastic Escape from Equilibrium in Complex Networks, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Escape_Criterion)
 
 *  [M. Tyloo, L. Pagnier, P. Jacquod, *The Key Player Problem in Complex Oscillator Networks and Electric Power Grids: Resistance Centralities Identify Local Vulnerabilities, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/key_players)
