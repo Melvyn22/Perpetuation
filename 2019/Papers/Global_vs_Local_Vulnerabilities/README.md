@@ -15,10 +15,11 @@ terms of resistance distances. We investigate the properties of these topologica
 and regular networks. In the case of oscillators with homogeneous inertia and damping coefficients,
 we find that inertia only has small effects on robustness of coupled oscillators. Numerical results
 illustrate the validity of the theory.
+
  **Author :** Melvyn Tyloo<sup>1,3</sup>,Philippe Jacquod<sup>2,3</sup> 
  1) Institute of Physics, École Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland.
-2)Department of Quantum Matter Physics, University of Geneva, CH-1211 Geneva, Switzerland.
-3)School of Engineering, University of Applied Sciences of Western Switzerland HES-SO, CH-1951 Sion, Switzerland.
+ 2) Department of Quantum Matter Physics, University of Geneva, CH-1211 Geneva, Switzerland.
+ 3) School of Engineering, University of Applied Sciences of Western Switzerland HES-SO, CH-1951 Sion, Switzerland.
 
  Also available online there : [Arxiv.org](https://arxiv.org/abs/1905.03582) 
  
