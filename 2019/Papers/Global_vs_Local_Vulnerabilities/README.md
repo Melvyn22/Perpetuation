@@ -1,5 +1,6 @@
 # Global Robustness vs. Local Vulnerabilities in Complex Synchronous Networks
  Dated : May 2019
+ 
  In complex network-coupled dynamical systems, two questions of central importance are how to
 identify the most vulnerable components and how to devise a network making the overall system
 more robust to external perturbations. To address these two questions, we investigate the response
