@@ -12,7 +12,7 @@ The energy transition's ultimate goal is to meet energy demand
  a high concern in power grids with high share of RES. It has been
  suggested that the resulting reduction of overall inertia can be
  compensated to some extent by the deployment of substitution inertia
- - synthetic inertia, flywheels, synchronous condensers aso. 
+ -- synthetic inertia, flywheels, synchronous condensers aso. 
  Of particular importance is to optimize the placement of the limited
  available substitution inertia. Here, we construct a matrix perturbation
  theory to optimize inertia and primary control placement under the
