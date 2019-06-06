@@ -10,4 +10,4 @@ Conventional generators in power grids are steadily substituted with new renewab
 2) Institute of Physics, Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland
 3) Department of Quantum Matter Physics,University of Geneva, Geneva, Switzerland
 
-Also available online there : [PLOS|ONE](https://doi.org/10.1371/journal.pone.0213550)
+Also available online there : [PLOS | ONE](https://doi.org/10.1371/journal.pone.0213550)
