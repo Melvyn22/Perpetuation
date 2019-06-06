@@ -4,7 +4,7 @@ Contains the papers, presentations and other documents relative to the group's s
 
 ### Publications
 
-*  [L. Pagnier, P. Jacquod, *Disturbance propagation, inertia location and slow modes in large-scale high voltage power grids, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/inertia)
+*  [L. Pagnier, P. Jacquod, *Inertia location and slow network modes determine disturbance propagation in large-scale power grids*, PLOS ONE 14(3): e0213550 (2019)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/inertia)
 
 *  [M. Tyloo, R. Delabays, P. Jacquod, *Noise-Induced Desynchronization and Stochastic Escape from Equilibrium in Complex Networks, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Escape_Criterion)
 
