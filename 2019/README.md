@@ -6,7 +6,7 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ### Publications
 
-*  [Philippe Jacquod, Laurent Pagnier, *Transport d’électricité et avenir énergétique : Refonte du mode de fonctionnement des réseaux*, Bulletin Electrosuisse/AES](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/optimal_inertia_ciss19)
+*  [Philippe Jacquod, Laurent Pagnier, *Transport d’électricité et avenir énergétique : Refonte du mode de fonctionnement des réseaux*, Bulletin Electrosuisse/AES](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/transport)
 *  [Philippe Jacquod, Laurent Pagnier, *Optimal placement of inertia and primary control in high voltage power grid*, Proc. CISS 2019](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/optimal_inertia_ciss19)
 *  [Melvyn Tyloo, Philippe Jacquod, *Global Robustness vs. Local Vulnerabilities in Complex Synchronous Networks*, submitted](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Global_vs_Local_Vulnerabilities)
 *  [R. Delabays, P. Jacquod, and F. Doerfler, *The Kuramoto Model on Oriented and Signed Graphs*, SIAM J. Applied Dynamical Systems **80**, 458-480 (2019)](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Oriented_Kuramoto)
