@@ -78,6 +78,7 @@ Contains the publications, presentations and other documents pertaining to the g
 ## List of presentations
 
 ### 2019
+* [Des aspects de la transition énergétique et leurs effets sur les réseaux électriques, *Sion*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Sion_laurent)
 * [Bounding the desynchronization time in electrical grids under fluctuating sources, *Champéry*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/FEPSET19_Delabays)
 *  [*Resistance Centralities Identify Local Vulnerabilities in Electric Power Grids*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/FEPSET19_Tyloo)
 * [*Grid Science Winter School and Conference, Santa Fe, New Mexico*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Grid_Science_Santa_Fe)
