@@ -4,6 +4,8 @@ Contains the papers, presentations and other documents relative to the group's s
 
 ### Publications
 
+* [Laurent Pagnier, Philippe Jacquod, *Optimal placement of inertia and primary control : a matrix perturbation theory approach*, submitted](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/perturbation_fin)
+
 * [R. Delabays, M. Tyloo, and P. Jacquod, *Rate of change of frequency under line contingencies in high voltage electric power networks with uncertainties*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/rocof)
 
 *  [Philippe Jacquod, Laurent Pagnier, *Transport d’électricité et avenir énergétique : Refonte du mode de fonctionnement des réseaux*, Bulletin Electrosuisse/AES](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/transport)
