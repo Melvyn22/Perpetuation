@@ -4,7 +4,7 @@ Contains the papers, presentations and other documents relative to the group's s
 
 ### Publications
 
-*  [L. Pagnier, P. Jacquod, *Inertia location and slow network modes determine disturbance propagation in large-scale power grids*, PLOS ONE 14(3): e0213550 (2019)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/inertia)
+*  [L. Pagnier, P. Jacquod, *Inertia location and slow network modes determine disturbance propagation in large-scale power grids*, PLoS ONE 14(3): e0213550 (2019)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/inertia)
 
 *  [M. Tyloo, L. Pagnier, P. Jacquod, *The Key Player Problem in Complex Oscillator Networks and Electric Power Grids: Resistance Centralities Identify Local Vulnerabilities, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/key_players)
 
