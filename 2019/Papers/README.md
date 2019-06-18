@@ -4,6 +4,8 @@ Contains the papers, presentations and other documents relative to the group's s
 
 ### Publications
 
+* [M.Tyloo, R.Delabays, and Ph.Jacquod, *Noise-induced desynchronization and stochastic escape from equilibrium in complex networks*, Phys. Rev. E **99** , 062213 (2019)](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Stochastic_Escape)
+
 * [Laurent Pagnier, Philippe Jacquod, *Optimal placement of inertia and primary control : a matrix perturbation theory approach*, submitted](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/perturbation_fin)
 
 * [R. Delabays, M. Tyloo, and P. Jacquod, *Rate of change of frequency under line contingencies in high voltage electric power networks with uncertainties*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/rocof)
