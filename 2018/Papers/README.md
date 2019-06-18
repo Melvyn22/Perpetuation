@@ -6,8 +6,6 @@ Contains the papers, presentations and other documents relative to the group's s
 
 *  [L. Pagnier, P. Jacquod, *Inertia location and slow network modes determine disturbance propagation in large-scale power grids*, PLOS ONE 14(3): e0213550 (2019)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/inertia)
 
-*  [M. Tyloo, R. Delabays, P. Jacquod, *Noise-Induced Desynchronization and Stochastic Escape from Equilibrium in Complex Networks, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Escape_Criterion)
-
 *  [M. Tyloo, L. Pagnier, P. Jacquod, *The Key Player Problem in Complex Oscillator Networks and Electric Power Grids: Resistance Centralities Identify Local Vulnerabilities, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/key_players)
 
 *  [L. Pagnier, P. Jacquod, *How fast can one overcome the paradox of the energy transition? A physico-economic model for the European power grid*, Energy **157** , 550 (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Energy)
