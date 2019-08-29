@@ -5,13 +5,13 @@ import os
 import difflib
 
 
-years = [2018,2017,2016,2015,2014,2013]
+years = [2019,2018,2017,2016,2015,2014,2013]
 
 r_me = '/README.md'
 
 f_papers = 'Papers'
-f_presentation = 'In_the_News'
-f_news = 'Presentations'
+f_presentation = 'Presentations'
+f_news = 'In_the_News'
 
 #Adding colours to make things more visually pleasing and understandable
 reset='\033[0m'

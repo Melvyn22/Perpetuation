@@ -19,7 +19,7 @@ def read_comment(comments, entry, dictionnay, file):
         f_readme = open(file)
         for line in f_readme:
             for comm,key in zip(comments,entry):
-                if line.lower().startswith(comm):
+                if line.lower().startswith(comm) and len(line[len(comm)+1:-4]) > 3:
                     dictionnay[key] = line[len(comm)+1:-4]
 
     except:
@@ -58,7 +58,7 @@ for line in file:
         state = 3
 
     if line.find("###") != -1:
-        for y in [2018,2017,2016,2015,2014,2013,2012]:
+        for y in [2019,2018,2017,2016,2015,2014,2013,2012]:
             if line.find(str(y)) != -1:
                 year = y
 
@@ -244,7 +244,8 @@ for pr_all in presentations:
 
     pres_dict={}
     pres_dict['authors']=''
-    pres_dict['title']=part_1[:part_1.find('*')].rstrip(', ')
+    #pres_dict['title']=part_1[:part_1.find('*')].rstrip(', ')
+    pres_dict['title']=part_1.replace('*','') #Remove the * for cleaner display
 
     pres_dict['publisher'] = part_1[part_1.find('*')+1:part_1.find('*',part_1.find('*')+1)].rstrip(', ')
     pres_dict['date'] = pr_all[1]
