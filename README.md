@@ -82,6 +82,7 @@ Contains the publications, presentations and other documents pertaining to the g
 ## List of presentations
 
 ### 2019
+* [The Key Player Problem in Realistic Large-Scale Power Grids, *Rostock, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Tyloo_Dynamics_Days_Rostock)
 * [Quantifying Vulnerabilities of Complex  Oscillatory Networks, *Johns Hopkins University, Batlimore, USA*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Johns_Hopkins_Tyloo)
 * [Des aspects de la transition énergétique et leurs effets sur les réseaux électriques, *Sion*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Sion_laurent)
 * [Bounding the desynchronization time in electrical grids under fluctuating sources, *Champéry*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/FEPSET19_Delabays)

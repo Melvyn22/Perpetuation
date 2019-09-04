@@ -4,6 +4,8 @@ Contains the papers, presentations and other documents relative to the group's s
 
 ### List of presentations
 
+* [The Key Player Problem in Realistic Large-Scale Power Grids, *Rostock, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Tyloo_Dynamics_Days_Rostock)
+
 * [Quantifying Vulnerabilities of Complex  Oscillatory Networks, *Johns Hopkins University, Batlimore, USA*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Johns_Hopkins_Tyloo)
 
 * [Des aspects de la transition énergétique et leurs effets sur les réseaux électriques, *Sion*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Sion_laurent)
