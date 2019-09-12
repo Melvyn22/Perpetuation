@@ -6,15 +6,15 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ### Publications
 
-*  [L. Pagnier, P. Jacquod, *Inertia location and slow network modes determine disturbance propagation in large-scale power grids*, PLoS ONE 14(3): e0213550 (2019)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/inertia)
-*  [M. Tyloo, L. Pagnier, P. Jacquod, *The Key Player Problem in Complex Oscillator Networks and Electric Power Grids: Resistance Centralities Identify Local Vulnerabilities, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/key_players)
-*  [L. Pagnier, P. Jacquod, *How fast can one overcome the paradox of the energy transition? A physico-economic model for the European power grid*, Energy **157** , 550 (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Energy)
-* [M. Tyloo, T. Coletta, P. Jacquod , *Robustness of Synchrony in Complex Networks and Generalized Kirchhoff Indices*, Phys. Rev. Lett. **120** , 084101 (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Kirchhoff)
-* [L. Pagnier, P. Jacquod, *Swissgrid’s Strategic Grid 2025 : an Independent Analysis*, Technical report (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Swissgrid_2025)
-* [M. Bonvin, P. Jacquod, *Réchauffement Climatique et Transition Energétique : Quelles Conséquences pour la Production Hydroélectrique Suisse ?*, Wasser-Energie-Luft, March (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/WEL)
-* [T. Coletta, P. Jacquod, *Transient Primary Control Effort of AC Electric Power Networks under Line Contingencies*, submitted to the 7th IFAC Workshop on Distributed Estimation and Control in Networked Systems (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/ifac2018)
-* [T. Coletta, P. Jacquod, *Performance Measures in Electric Power Networks under Line Contingenices*, Submitted to IEEE Transactions on Control of Network Systems (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramian)
-* [T. Coletta, B. Bamieh, P. Jacquod, *Transient Performance of Electric Power Networks under Colored Noise*, submitted to IEEE Control Systems Letters (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramiannoise)
+*  [L. Pagnier, P. Jacquod, *Inertia Location and Slow Network Modes Determine Disturbance Propagation in Large-scale Power Grids*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/inertia)
+*  [M. Tyloo, L. Pagnier, P. Jacquod, *The Key Player Problem in Complex Oscillator Networks and Electric Power Grids: Resistance Centralities Identify Local Vulnerabilities*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/key_players)
+*  [L. Pagnier, P. Jacquod, *How Fast can one Overcome the Paradox of the Energy Transition? A Physico-economic Model for the European Power Grid*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Energy)
+* [M. Tyloo, T. Coletta, P. Jacquod , *Robustness of Synchrony in Complex Networks and Generalized Kirchhoff Indices*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Kirchhoff)
+* [L. Pagnier, P. Jacquod, *Swissgrid’s Strategic Grid 2025 : an Independent Analysis*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Swissgrid_2025)
+* [M. Bonvin, P. Jacquod, *Réchauffement Climatique et Transition Energétique : Quelles Conséquences pour la Production Hydroélectrique Suisse ?*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/WEL)
+* [T. Coletta, P. Jacquod, *Transient Primary Control Effort of AC Electric Power Networks under Line Contingencies*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/ifac2018)
+* [T. Coletta, P. Jacquod, *Performance Measures in Electric Power Networks under Line Contingenices*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramian)
+* [T. Coletta, B. Bamieh, P. Jacquod, *Transient Performance of Electric Power Networks under Colored Noise*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramiannoise)
 
 ### In the News
 
@@ -27,11 +27,11 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ### List of presentations
 
-* [*57th IEEE Conference on Decision and Control, Miami Beach*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/CDC_Miami)
-* [*International School on Informatics and Dynamics in Complex Networks, University of Catania*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Catania_School_Complex_Networks)
-* [*Dynamics Days Europe 2018, Loughborough University*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Dynamics_Days_Loughborough)
-* [*International Workshop on Disordered Systems, PCS-ICS Daejeon*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/DisSLoTT)
-* [*7th IFAC Workshop on Distributed Estimation and Control in Networked Systems, University of Groningen*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Necsys18_Groningen)
-* [*Bad Honnef*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Bad_Honnef)
-* [*Le réseau stratégique 2025 de Swissgrid*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Le_reseau_strategique_2025_de_Swissgrid)
-* [*Seminar at DQMP, University of Geneva*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/DQMP_Geneva)
+* [Transient Performance of Electric Power Networks under Colored Noise, *57th IEEE Conference on Decision and Control, Miami Beach, USA*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/CDC_Miami)
+* [Robustness of Synchrony in Complex Networks and Generalized Kirchhoff Indices, *International School on Informatics and Dynamics in Complex Networks, University of Catania, Italy*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Catania_School_Complex_Networks)
+* [Multistability in Electric Power Grids on Meshed, Complex Networks, *Dynamics Days Europe 2018, Loughborough University, UK*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Dynamics_Days_Loughborough)
+* [Global Robustness vs. Local Vulnerabilities in Network-coupled Dynamical Systems, *International Workshop on Disordered Systems, PCS-ICS Daejeon, South Korea*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/DisSLoTT)
+* [Transient Primary Control Effort of AC Electric Power Networks under Line Contingencies, *7th IFAC Workshop on Distributed Estimation and Control in Networked Systems, University of Groningen, Netherlands*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Necsys18_Groningen)
+* [Multiple Presentations, *Bad Honnef, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Bad_Honnef)
+* [Le réseau stratégique 2025 de Swissgrid, *Creation Talk, Sion*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Le_reseau_strategique_2025_de_Swissgrid)
+* [Global Robustness vs. Local Vulnerabilities in Network-coupled Dynamical Systems, *Seminar at DQMP, University of Geneva*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/DQMP_Geneva)

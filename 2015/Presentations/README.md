@@ -5,6 +5,6 @@ Contains the papers, presentations and other documents relative to the group's s
 ### List of presentations
 
 
-* [*Konstanz*](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Konstanz)
+* [High-voltage Electric Power Transport, *Konstanz, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Konstanz)
 
-* [*Pecha Kucha*](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Pecha_Kucha)
+* [Tournant Énergétique dans le Secteur Électrique, *Pecha Kucha, Sion*](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Pecha_Kucha)

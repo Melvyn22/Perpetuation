@@ -4,9 +4,9 @@ Contains the papers, presentations and other documents relative to the group's s
 
 ### List of presentations
 
-* [*Santa Fe*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Santa_Fe)
-* [*Powertech*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Powertech)
-* [*Condynet*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Condynet_Potsdam)
-* [*Champéry*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Champéry)
-* [*BIRS Banff*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/BIRS_Banff)
+* [Multiple Presentations, *Santa Fe, USA*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Santa_Fe)
+* [A pan-European dispatch model for the energy transition in the electricity sector, *Powertech, Manchester, UK*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Powertech)
+* [The Price of Synchrony in a Power Grid with Fluctuating Feed-In, *Condynet, Potsdam, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Condynet_Potsdam)
+* [Multiple Presentations, *FEPSET17, Champéry*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Champéry)
+* [Vortex Flows in High Voltage AC Power Grids, *BIRS, Banff, Canada*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/BIRS_Banff)
 

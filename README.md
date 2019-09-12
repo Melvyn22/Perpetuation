@@ -4,52 +4,52 @@ Contains the publications, presentations and other documents pertaining to the g
 ## Publications
 
 ### 2019
-* [M.Tyloo, R.Delabays, and Ph.Jacquod, *Noise-induced desynchronization and stochastic escape from equilibrium in complex networks*, Phys. Rev. E **99** , 062213 (2019)](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Stochastic_Escape)
-* [Laurent Pagnier, Philippe Jacquod, *Optimal placement of inertia and primary control : a matrix perturbation theory approach*, submitted](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/perturbation_fin)
-* [R. Delabays, M. Tyloo, and P. Jacquod, *Rate of change of frequency under line contingencies in high voltage electric power networks with uncertainties*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/rocof)
-*  [Philippe Jacquod, Laurent Pagnier, *Transport d’électricité et avenir énergétique : Refonte du mode de fonctionnement des réseaux*, Bulletin Electrosuisse/AES](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/transport)
-*  [Philippe Jacquod, Laurent Pagnier, *Optimal placement of inertia and primary control in high voltage power grid*, Proc. CISS 2019](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/optimal_inertia_ciss19)
-*  [Melvyn Tyloo, Philippe Jacquod, *Global Robustness vs. Local Vulnerabilities in Complex Synchronous Networks*, submitted](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Global_vs_Local_Vulnerabilities)
-*  [R. Delabays, P. Jacquod, and F. Doerfler, *The Kuramoto Model on Oriented and Signed Graphs*, SIAM J. Applied Dynamical Systems **80**, 458-480 (2019)](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Oriented_Kuramoto)
+* [M.Tyloo, R.Delabays, and P.Jacquod, *Noise-induced Desynchronization and Stochastic Escape from Equilibrium in Complex Networks*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Stochastic_Escape)
+* [L. Pagnier, P. Jacquod, *Optimal Placement of Inertia and Primary Control : a Matrix Perturbation Theory Approach*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/perturbation_fin)
+* [R. Delabays, M. Tyloo, and P. Jacquod, *Rate of Change of Frequency Under Line Contingencies in High Voltage Electric Power Networks with Uncertainties*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/rocof)
+*  [P. Jacquod, L. Pagnier, *Transport d’Électricité et Avenir Énergétique : Refonte du Mode de Fonctionnement des Réseaux*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/transport)
+*  [Ph. Jacquod, L. Pagnier, *Optimal Placement of Inertia and Primary Control in High Voltage Power Grid*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/optimal_inertia_ciss19)
+*  [M. Tyloo, P. Jacquod, *Global Robustness vs. Local Vulnerabilities in Complex Synchronous Networks*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Global_vs_Local_Vulnerabilities)
+*  [R. Delabays, P. Jacquod, and F. Doerfler, *The Kuramoto Model on Oriented and Signed Graphs*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Oriented_Kuramoto)
 
 ### 2018
-*  [L. Pagnier, P. Jacquod, *Inertia location and slow network modes determine disturbance propagation in large-scale power grids*, PLoS ONE 14(3): e0213550 (2019)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/inertia)
-*  [M. Tyloo, L. Pagnier, P. Jacquod, *The Key Player Problem in Complex Oscillator Networks and Electric Power Grids: Resistance Centralities Identify Local Vulnerabilities, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/key_players)
-*  [L. Pagnier, P. Jacquod, *How fast can one overcome the paradox of the energy transition? A physico-economic model for the European power grid*, Energy **157** , 550 (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Energy)
-* [M. Tyloo, T. Coletta, P. Jacquod , *Robustness of Synchrony in Complex Networks and Generalized Kirchhoff Indices*, Phys. Rev. Lett. **120** , 084101 (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Kirchhoff)
-* [L. Pagnier, P. Jacquod, *Swissgrid’s Strategic Grid 2025 : an Independent Analysis*, Technical report (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Swissgrid_2025)
-* [M. Bonvin, P. Jacquod, *Réchauffement Climatique et Transition Energétique : Quelles Conséquences pour la Production Hydroélectrique Suisse ?*, Wasser-Energie-Luft, March (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/WEL)
-* [T. Coletta, P. Jacquod, *Transient Primary Control Effort of AC Electric Power Networks under Line Contingencies*, submitted to the 7th IFAC Workshop on Distributed Estimation and Control in Networked Systems (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/ifac2018)
-* [T. Coletta, P. Jacquod, *Performance Measures in Electric Power Networks under Line Contingenices*, Submitted to IEEE Transactions on Control of Network Systems (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramian)
-* [T. Coletta, B. Bamieh, P. Jacquod, *Transient Performance of Electric Power Networks under Colored Noise*, submitted to IEEE Control Systems Letters (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramiannoise)
+*  [L. Pagnier, P. Jacquod, *Inertia Location and Slow Network Modes Determine Disturbance Propagation in Large-scale Power Grids*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/inertia)
+*  [M. Tyloo, L. Pagnier, P. Jacquod, *The Key Player Problem in Complex Oscillator Networks and Electric Power Grids: Resistance Centralities Identify Local Vulnerabilities*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/key_players)
+*  [L. Pagnier, P. Jacquod, *How Fast can one Overcome the Paradox of the Energy Transition? A Physico-economic Model for the European Power Grid*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Energy)
+* [M. Tyloo, T. Coletta, P. Jacquod , *Robustness of Synchrony in Complex Networks and Generalized Kirchhoff Indices*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Kirchhoff)
+* [L. Pagnier, P. Jacquod, *Swissgrid’s Strategic Grid 2025 : an Independent Analysis*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Swissgrid_2025)
+* [M. Bonvin, P. Jacquod, *Réchauffement Climatique et Transition Energétique : Quelles Conséquences pour la Production Hydroélectrique Suisse ?*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/WEL)
+* [T. Coletta, P. Jacquod, *Transient Primary Control Effort of AC Electric Power Networks under Line Contingencies*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/ifac2018)
+* [T. Coletta, P. Jacquod, *Performance Measures in Electric Power Networks under Line Contingenices*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramian)
+* [T. Coletta, B. Bamieh, P. Jacquod, *Transient Performance of Electric Power Networks under Colored Noise*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramiannoise)
 
 ### 2017
-* [R. Delabays, T. Coletta, P. Jacquod, *Multistability of phase-locking in equal-frequency Kuramoto models on planar graphs*, J. Math. Phys **58**, 032701  (2017)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/Multistability_of_phase-locking_in_equal-frequency_Kuramoto_models_on_planar_graphs)
-* [T. Coletta, P. Jacquod, *Resistance distance criterion for optimal slack bus selection* (2017)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/Resistance_Distance_Criterion_for_Optimal_Slack_Bus_Selection)
-* [R. Delabays, M. Tyloo, P. Jacquod, *The Size of the Sync Basin Revisited*, Chaos **27**, 103109 (2017)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/The_Size_of_the_Sync_Basin_Revisited)
-* [T. Coletta, R. Delabays, P. Jacquod, *Finite Size Scaling in the Kuramoto Model*, Phys. Rev. E **95**, 042207 (2017)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/Finite_Size_Scaling)
-* [P. Jacquod, L. Pagnier, *Le paradoxe de la transition énergétique*, *ElectroSuisse / AES* (2017)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/Paradoxe_Transition_Energ%C3%A9tique)
-* [L. Pagnier, P. Jacquod , *A predictive pan-European economic and production dispatch model for the energy transition in the electricity sector*, *Proceedings of Powertech 2017 Conference* (2017)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/A_predictive_pan-European_economic_and_production_dispatch_model_for_the_energy_transition_in_the_electricity_sector)
-* [L. Pagnier, P. Jacquod , *How fast can one overcome the paradox of the energy transition? A predictive physico-economic model for the European power grid*, *Energy* (pending)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/How_fast_can_one_overcome_the_paradox_of_the_energy_transition)
-* [T. Coletta, P. Jacquod, *Performance measures in electric power networks under line contingencies*, (pending)](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/Performance_Measures_in_Electric_Power_Networks_Under_Line_Contingencies)
+* [R. Delabays, T. Coletta, P. Jacquod, *Multistability of Phase-locking in Equal-frequency Kuramoto Models on Planar Graphs*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/Multistability_of_phase-locking_in_equal-frequency_Kuramoto_models_on_planar_graphs)
+* [T. Coletta, P. Jacquod, *Resistance Distance Criterion for Optimal Slack Bus Selection*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/Resistance_Distance_Criterion_for_Optimal_Slack_Bus_Selection)
+* [R. Delabays, M. Tyloo, P. Jacquod, *The Size of the Sync Basin Revisited*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/The_Size_of_the_Sync_Basin_Revisited)
+* [T. Coletta, R. Delabays, P. Jacquod, *Finite Size Scaling in the Kuramoto Model*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/Finite_Size_Scaling)
+* [P. Jacquod, L. Pagnier, *Le Paradoxe de la Transition Énergétique*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/Paradoxe_Transition_Energ%C3%A9tique)
+* [L. Pagnier, P. Jacquod , *A predictive Pan-European Economic and Production Dispatch Model for the Energy Transition in the Electricity Sector*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/A_predictive_pan-European_economic_and_production_dispatch_model_for_the_energy_transition_in_the_electricity_sector)
+* [L. Pagnier, P. Jacquod , *How Fast can one Overcome the Paradox of the Energy Transition? A Predictive Physico-economic Model for the European Power Grid*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/How_fast_can_one_overcome_the_paradox_of_the_energy_transition)
+* [T. Coletta, P. Jacquod, *Performance Measures in Electric Power Networks under Line Contingencies*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Papers/Performance_Measures_in_Electric_Power_Networks_Under_Line_Contingencies)
 
 ### 2016
-* [R. Delabays, T. Coletta, P. Jacquod, *Multistability of phase-locking and topological winding numbers in locally coupled Kuramoto models on single-loop networks*, J. Mat. Phys **57**, 032703 (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Multistability_of_phase-locking_and_topological_winding_numbers_in_locally_coupled_Kuramoto_models_on_single-loop_networks)
-* [T. Coletta, P. Jacquod, *Linear stability and the Braess paradox in coupled-oscillator networks and electric power grids*, Phys. Rev. E **93**, 032222 (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Braess_Paradox)
-* [R. Delabays, T. Coletta, P. Jacquod, *Topologically protected loop flows in high voltage AC power grids*, New J. Phys. **18**, 103042 (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Topological_Protection)
-* [P. Jacquod, L. Pagnier, *A new, central role for hydroelectricity in the energy transition*, Proceedings of Hydro 2016 Conference (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/A_New_Central_Role_for_Hydroelectricity_in_the_Energy_Transition)
-* [T. Coletta, R. Delabays, L. Pagnier, P. Jacquod, *Large Electric Load Fluctuations in Energy-Efficient Buildings and how to Suppress them with Demand Side Management*, PES (2016)](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Demand_Side_Management)
+* [R. Delabays, T. Coletta, P. Jacquod, *Multistability of Phase-locking and Topological Winding Numbers in Locally Coupled Kuramoto Models on Single-loop Networks*](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Multistability_of_phase-locking_and_topological_winding_numbers_in_locally_coupled_Kuramoto_models_on_single-loop_networks)
+* [T. Coletta, P. Jacquod, *Linear Stability and the Braess Paradox in Coupled-oscillator Networks and Electric Power Grids*](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Braess_Paradox)
+* [R. Delabays, T. Coletta, P. Jacquod, *Topologically Protected Loop Flows in High Voltage AC Power Grids*](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Topological_Protection)
+* [P. Jacquod, L. Pagnier, *A New, Central Role for Hydroelectricity in the Energy Transition*](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/A_New_Central_Role_for_Hydroelectricity_in_the_Energy_Transition)
+* [T. Coletta, R. Delabays, L. Pagnier, P. Jacquod, *Large Electric Load Fluctuations in Energy-Efficient Buildings and how to Suppress them with Demand Side Management*](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Papers/Demand_Side_Management)
 
 ### 2015
-* [M. Bonvin, P. Jacquod, *Tournant énergetique dans le secteur électrique*, ElectroSuisse/AES, November (2015)](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Papers/Tournant_energetique_dans_le_secteur_electrique)
-* [F. Nichele, S. Hennel, P. Pietsch, W. Wegscheider, P. Stano, P. Jacquod, T. Ihn, K. Ensslin, *Generation and Detection of Spin Currents in Semiconductor Nanostructures with Strong Spin-Orbit Interaction*, Phys. Rev. Lett. **114**, 206601 (2015)](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Papers/Spin_Current_Detection)
+* [M. Bonvin, P. Jacquod, *Tournant Énergetique dans le Secteur Électrique*](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Papers/Tournant_energetique_dans_le_secteur_electrique)
+* [F. Nichele, S. Hennel, P. Pietsch, W. Wegscheider, P. Stano, P. Jacquod, T. Ihn, K. Ensslin, *Generation and Detection of Spin Currents in Semiconductor Nanostructures with Strong Spin-Orbit Interaction*](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Papers/Spin_Current_Detection)
 
 ### 2014
-* [J. Meair, J. Bergfield, C. Stafford, P. Jacquod, *Local Temperature of Out-of-Equilibrium Quantum Electron Systems*, Phys. Rev. B **90**, 035407 (2014)](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Papers/Local_Temperature)
-* [M. Yankowitz, J. Wang, A. Birdwell, Y. Chen, K. Watanabe, T. Taniguchi, P. Jacquod, P. San-Jose, P. Jarillo-Herrero, B. LeRoy, *Electric Field Control of Soliton Motion and Stacking in Trilayer Graphene*, Nature Materials **13**, 786 (2014)](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Papers/Soliton_Motion_Graphene)
+* [J. Meair, J. Bergfield, C. Stafford, P. Jacquod, *Local Temperature of Out-of-Equilibrium Quantum Electron Systems*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Papers/Local_Temperature)
+* [M. Yankowitz, J. Wang, A. Birdwell, Y. Chen, K. Watanabe, T. Taniguchi, P. Jacquod, P. San-Jose, P. Jarillo-Herrero, B. LeRoy, *Electric Field Control of Soliton Motion and Stacking in Trilayer Graphene*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Papers/Soliton_Motion_Graphene)
 
 ### 2013
-* [P. Jacquod, M. Büttiker, *Signatures of Majorana Fermions in Hybrid Normal-Superconducting Rings*, Physical Review B **88**, 214409(R) (2013)](https://github.com/GeeeHesso/Perpetuation/tree/master/2013/Papers/Majorana)
+* [P. Jacquod, M. Büttiker, *Signatures of Majorana Fermions in Hybrid Normal-Superconducting Rings*](https://github.com/GeeeHesso/Perpetuation/tree/master/2013/Papers/Majorana)
 
 ## In the News
 
@@ -82,38 +82,45 @@ Contains the publications, presentations and other documents pertaining to the g
 ## List of presentations
 
 ### 2019
-* [The Key Player Problem in Realistic Large-Scale Power Grids, *Rostock, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Tyloo_Dynamics_Days_Rostock)
+* [The Key Player Problem in Realistic Large-Scale Power Grids, *Dynamics Days, Rostock, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Tyloo_Dynamics_Days_Rostock)
 * [Quantifying Vulnerabilities of Complex  Oscillatory Networks, *Johns Hopkins University, Batlimore, USA*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Johns_Hopkins_Tyloo)
-* [Des aspects de la transition énergétique et leurs effets sur les réseaux électriques, *Sion*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Sion_laurent)
-* [Bounding the desynchronization time in electrical grids under fluctuating sources, *Champéry*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/FEPSET19_Delabays)
-*  [*Resistance Centralities Identify Local Vulnerabilities in Electric Power Grids*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/FEPSET19_Tyloo)
-* [*Grid Science Winter School and Conference, Santa Fe, New Mexico*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Grid_Science_Santa_Fe)
-* [*NREL Brown Bag Talk, Golden Colorado*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/NREL_Golden)
-* [*CCDC Seminar, UC Santa Barbara, California*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/UC_Santa_Barbara)
+* [Des aspects de la transition énergétique et leurs effets sur les réseaux électriques, *Soutenance, Sion*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Sion_laurent)
+* [Bounding the desynchronization time in electrical grids under fluctuating sources, *FEPSET19,Champéry*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/FEPSET19_Delabays)
+*  [Resistance Centralities Identify Local Vulnerabilities in Electric Power Grids,*FEPSET19,Champéry*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/FEPSET19_Tyloo)
+* [Grid Science Winter School and Conference, *Grid Science, Santa Fe, New Mexico, USA*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Grid_Science_Santa_Fe)
+* [NREL Brown Bag Talk, *NREL, Golden, Colorado, USA*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/NREL_Golden)
+* [CCDC Seminar, *CCDC, UC Santa Barbara, California, USA*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/UC_Santa_Barbara)
 
 ### 2018
-* [*57th IEEE Conference on Decision and Control, Miami Beach*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/CDC_Miami)
-* [*International School on Informatics and Dynamics in Complex Networks, University of Catania*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Catania_School_Complex_Networks)
-* [*Dynamics Days Europe 2018, Loughborough University*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Dynamics_Days_Loughborough)
-* [*International Workshop on Disordered Systems, PCS-ICS Daejeon*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/DisSLoTT)
-* [*7th IFAC Workshop on Distributed Estimation and Control in Networked Systems, University of Groningen*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Necsys18_Groningen)
-* [*Bad Honnef*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Bad_Honnef)
-* [*Le réseau stratégique 2025 de Swissgrid*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Le_reseau_strategique_2025_de_Swissgrid)
-* [*Seminar at DQMP, University of Geneva*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/DQMP_Geneva)
+* [Transient Performance of Electric Power Networks under Colored Noise, *57th IEEE Conference on Decision and Control, Miami Beach, USA*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/CDC_Miami)
+* [Robustness of Synchrony in Complex Networks and Generalized Kirchhoff Indices, *International School on Informatics and Dynamics in Complex Networks, University of Catania, Italy*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Catania_School_Complex_Networks)
+* [Multistability in Electric Power Grids on Meshed, Complex Networks, *Dynamics Days Europe 2018, Loughborough University, UK*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Dynamics_Days_Loughborough)
+* [Global Robustness vs. Local Vulnerabilities in Network-coupled Dynamical Systems, *International Workshop on Disordered Systems, PCS-ICS Daejeon, South Korea*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/DisSLoTT)
+* [Transient Primary Control Effort of AC Electric Power Networks under Line Contingencies, *7th IFAC Workshop on Distributed Estimation and Control in Networked Systems, University of Groningen, Netherlands*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Necsys18_Groningen)
+* [Multiple Presentations, *Bad Honnef, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Bad_Honnef)
+* [Le réseau stratégique 2025 de Swissgrid, *Creation Talk, Sion*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/Le_reseau_strategique_2025_de_Swissgrid)
+* [Global Robustness vs. Local Vulnerabilities in Network-coupled Dynamical Systems, *Seminar at DQMP, University of Geneva*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Presentations/DQMP_Geneva)
 
 ### 2017
-* [*Santa Fe*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Santa_Fe)
-* [*Powertech*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Powertech)
-* [*Condynet*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Condynet_Potsdam)
-* [*Champéry*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Champéry)
-* [*BIRS Banff*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/BIRS_Banff)
+* [Multiple Presentations, *Santa Fe, USA*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Santa_Fe)
+* [A pan-European dispatch model for the energy transition in the electricity sector, *Powertech, Manchester, UK*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Powertech)
+* [The Price of Synchrony in a Power Grid with Fluctuating Feed-In, *Condynet, Potsdam, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Condynet_Potsdam)
+* [Multiple Presentations, *FEPSET17, Champéry*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/Champéry)
+* [Vortex Flows in High Voltage AC Power Grids, *BIRS, Banff, Canada*](https://github.com/GeeeHesso/Perpetuation/tree/master/2017/Presentations/BIRS_Banff)
+
+### 2016
+* [Transition Énergétique et Réseaux Électriques : Défis et Opportunités, *PROMES, Café des Sciences, Perpignan, France*](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Presentations/Café_des_Sciences_Perpignan)
+* [Topologically Protected Vortex Flows in High Voltage AC Power Grids, *Condynet, Bremen, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Presentations/Condynet_Bremen)
+* [Multiple Presentations, *Dynamics Days, Corfu, Greece*](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Presentations/Condynet_Bremen)
+* [Loop Flows in High Voltage AC Power Grids, *ETHZ, Zurich*](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Presentations/ETHZ)
+* [Large electric load fluctuations and how to suppress them with DSM, *IEEE, Ljubljana, Slovenia*](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Presentations/Ljubljana)
 
 ### 2015
-* [*Konstanz*](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Konstanz)
-* [*Pecha Kucha*](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Pecha_Kucha)
+* [High-voltage Electric Power Transport, *Konstanz, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Konstanz)
+* [Tournant Énergétique dans le Secteur Électrique, *Pecha Kucha, Sion*](https://github.com/GeeeHesso/Perpetuation/tree/master/2015/Presentations/Pecha_Kucha)
 
 ### 2014
-* [*ECS14*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/ECS14)
-* [*IWDS14*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/IWDS14)
-* [*SET14*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/SET14)
-* [*Majorana EPFL*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/Majorana_EPFL)
+* [Synchrony and Stability in Electric Power Systems, *ECS14, mpipks, Dresden, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/ECS14)
+* [Transmission Phase through Finite-sized Electron Systems, *IWDS14, USA*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/IWDS14)
+* [Integrating Intermittent Renewables Into Electric Power Systems, *SET14*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/SET14)
+* [Detecting Majorana Fermions through Persistent Currents in Normal-Superconducting Rings, *EPFL*](https://github.com/GeeeHesso/Perpetuation/tree/master/2014/Presentations/Majorana_EPFL)

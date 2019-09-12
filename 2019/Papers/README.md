@@ -4,17 +4,17 @@ Contains the papers, presentations and other documents relative to the group's s
 
 ### Publications
 
-* [M.Tyloo, R.Delabays, and Ph.Jacquod, *Noise-induced desynchronization and stochastic escape from equilibrium in complex networks*, Phys. Rev. E **99** , 062213 (2019)](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Stochastic_Escape)
+* [M.Tyloo, R.Delabays, and P.Jacquod, *Noise-induced Desynchronization and Stochastic Escape from Equilibrium in Complex Networks*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Stochastic_Escape)
 
-* [Laurent Pagnier, Philippe Jacquod, *Optimal placement of inertia and primary control : a matrix perturbation theory approach*, submitted](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/perturbation_fin)
+* [L. Pagnier, P. Jacquod, *Optimal Placement of Inertia and Primary Control : a Matrix Perturbation Theory Approach*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/perturbation_fin)
 
-* [R. Delabays, M. Tyloo, and P. Jacquod, *Rate of change of frequency under line contingencies in high voltage electric power networks with uncertainties*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/rocof)
+* [R. Delabays, M. Tyloo, and P. Jacquod, *Rate of Change of Frequency Under Line Contingencies in High Voltage Electric Power Networks with Uncertainties*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/rocof)
 
-*  [Philippe Jacquod, Laurent Pagnier, *Transport d’électricité et avenir énergétique : Refonte du mode de fonctionnement des réseaux*, Bulletin Electrosuisse/AES](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/transport)
+*  [P. Jacquod, L. Pagnier, *Transport d’Électricité et Avenir Énergétique : Refonte du Mode de Fonctionnement des Réseaux*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/transport)
 
-*  [Philippe Jacquod, Laurent Pagnier, *Optimal placement of inertia and primary control in high voltage power grid*, Proc. CISS 2019](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/optimal_inertia_ciss19)
+*  [Ph. Jacquod, L. Pagnier, *Optimal Placement of Inertia and Primary Control in High Voltage Power Grid*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/optimal_inertia_ciss19)
 
-*  [Melvyn Tyloo, Philippe Jacquod, *Global Robustness vs. Local Vulnerabilities in Complex Synchronous Networks*, submitted](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Global_vs_Local_Vulnerabilities)
+*  [M. Tyloo, P. Jacquod, *Global Robustness vs. Local Vulnerabilities in Complex Synchronous Networks*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Global_vs_Local_Vulnerabilities)
 
-*  [R. Delabays, P. Jacquod, and F. Doerfler, *The Kuramoto Model on Oriented and Signed Graphs*, SIAM J. Applied Dynamical Systems **80**, 458-480 (2019)](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Oriented_Kuramoto)
+*  [R. Delabays, P. Jacquod, and F. Doerfler, *The Kuramoto Model on Oriented and Signed Graphs*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Oriented_Kuramoto)
 

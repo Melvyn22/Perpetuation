@@ -4,20 +4,20 @@ Contains the papers, presentations and other documents relative to the group's s
 
 ### Publications
 
-*  [L. Pagnier, P. Jacquod, *Inertia location and slow network modes determine disturbance propagation in large-scale power grids*, PLoS ONE 14(3): e0213550 (2019)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/inertia)
+*  [L. Pagnier, P. Jacquod, *Inertia Location and Slow Network Modes Determine Disturbance Propagation in Large-scale Power Grids*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/inertia)
 
-*  [M. Tyloo, L. Pagnier, P. Jacquod, *The Key Player Problem in Complex Oscillator Networks and Electric Power Grids: Resistance Centralities Identify Local Vulnerabilities, (submitted)*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/key_players)
+*  [M. Tyloo, L. Pagnier, P. Jacquod, *The Key Player Problem in Complex Oscillator Networks and Electric Power Grids: Resistance Centralities Identify Local Vulnerabilities*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/key_players)
 
-*  [L. Pagnier, P. Jacquod, *How fast can one overcome the paradox of the energy transition? A physico-economic model for the European power grid*, Energy **157** , 550 (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Energy)
+*  [L. Pagnier, P. Jacquod, *How Fast can one Overcome the Paradox of the Energy Transition? A Physico-economic Model for the European Power Grid*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Energy)
 
-* [M. Tyloo, T. Coletta, P. Jacquod , *Robustness of Synchrony in Complex Networks and Generalized Kirchhoff Indices*, Phys. Rev. Lett. **120** , 084101 (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Kirchhoff)
+* [M. Tyloo, T. Coletta, P. Jacquod , *Robustness of Synchrony in Complex Networks and Generalized Kirchhoff Indices*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Kirchhoff)
 
-* [L. Pagnier, P. Jacquod, *Swissgrid’s Strategic Grid 2025 : an Independent Analysis*, Technical report (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Swissgrid_2025)
+* [L. Pagnier, P. Jacquod, *Swissgrid’s Strategic Grid 2025 : an Independent Analysis*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Swissgrid_2025)
 
-* [M. Bonvin, P. Jacquod, *Réchauffement Climatique et Transition Energétique : Quelles Conséquences pour la Production Hydroélectrique Suisse ?*, Wasser-Energie-Luft, March (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/WEL)
+* [M. Bonvin, P. Jacquod, *Réchauffement Climatique et Transition Energétique : Quelles Conséquences pour la Production Hydroélectrique Suisse ?*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/WEL)
 
-* [T. Coletta, P. Jacquod, *Transient Primary Control Effort of AC Electric Power Networks under Line Contingencies*, submitted to the 7th IFAC Workshop on Distributed Estimation and Control in Networked Systems (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/ifac2018)
+* [T. Coletta, P. Jacquod, *Transient Primary Control Effort of AC Electric Power Networks under Line Contingencies*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/ifac2018)
 
-* [T. Coletta, P. Jacquod, *Performance Measures in Electric Power Networks under Line Contingenices*, Submitted to IEEE Transactions on Control of Network Systems (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramian)
+* [T. Coletta, P. Jacquod, *Performance Measures in Electric Power Networks under Line Contingenices*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramian)
 
-* [T. Coletta, B. Bamieh, P. Jacquod, *Transient Performance of Electric Power Networks under Colored Noise*, submitted to IEEE Control Systems Letters (2018)](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramiannoise)
+* [T. Coletta, B. Bamieh, P. Jacquod, *Transient Performance of Electric Power Networks under Colored Noise*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Gramiannoise)
