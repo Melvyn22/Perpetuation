@@ -83,7 +83,7 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ### 2019
 * [The Key Player Problem in Realistic Large-Scale Power Grids, *Dynamics Days, Rostock, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Tyloo_Dynamics_Days_Rostock)
-* [Quantifying Vulnerabilities of Complex  Oscillatory Networks, *Johns Hopkins University, Batlimore, USA*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Johns_Hopkins_Tyloo)
+* [Quantifying Vulnerabilities of Complex  Oscillatory Networks, *Johns Hopkins University, Baltimore, USA*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Johns_Hopkins_Tyloo)
 * [Des aspects de la transition énergétique et leurs effets sur les réseaux électriques, *Soutenance, Sion*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Sion_laurent)
 * [Bounding the desynchronization time in electrical grids under fluctuating sources, *FEPSET19,Champéry*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/FEPSET19_Delabays)
 *  [Resistance Centralities Identify Local Vulnerabilities in Electric Power Grids,*FEPSET19,Champéry*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/FEPSET19_Tyloo)
@@ -111,7 +111,7 @@ Contains the publications, presentations and other documents pertaining to the g
 ### 2016
 * [Transition Énergétique et Réseaux Électriques : Défis et Opportunités, *PROMES, Café des Sciences, Perpignan, France*](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Presentations/Café_des_Sciences_Perpignan)
 * [Topologically Protected Vortex Flows in High Voltage AC Power Grids, *Condynet, Bremen, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Presentations/Condynet_Bremen)
-* [Multiple Presentations, *Dynamics Days, Corfu, Greece*](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Presentations/Condynet_Bremen)
+* [Multiple Presentations, *Dynamics Days, Corfu, Greece*](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Presentations/Dynamics_Days_Corfou)
 * [Loop Flows in High Voltage AC Power Grids, *ETHZ, Zurich*](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Presentations/ETHZ)
 * [Large electric load fluctuations and how to suppress them with DSM, *IEEE, Ljubljana, Slovenia*](https://github.com/GeeeHesso/Perpetuation/tree/master/2016/Presentations/Ljubljana)
 
