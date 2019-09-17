@@ -4,7 +4,9 @@ Contains the publications, presentations and other documents pertaining to the g
 ## Publications
 
 ### 2019
-* [M. Tyloo, R. Delabays, and P. Jacquod, *Noise-induced Desynchronization and Stochastic Escape from Equilibrium in Complex Networks*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Stochastic_Escape)
+* [P. Jacquod, *Eigenstate Thermalization and Ensemble Equivalence in Few-Body Fermionic Systems*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Thermalization)
+* [J. Hindes, P. Jacquod, and I.B. Schwartz, *Network Desynchronization by Non-Gaussian Fluctuations*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/NonGaussian)
+* [M. Tyloo, R. Delabays, and P. Jacquod, *Noise-Induced Desynchronization and Stochastic Escape from Equilibrium in Complex Networks*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Stochastic_Escape)
 * [L. Pagnier, P. Jacquod, *Optimal Placement of Inertia and Primary Control : a Matrix Perturbation Theory Approach*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/perturbation_fin)
 * [R. Delabays, M. Tyloo, and P. Jacquod, *Rate of Change of Frequency Under Line Contingencies in High Voltage Electric Power Networks with Uncertainties*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/rocof)
 *  [P. Jacquod, L. Pagnier, *Transport d’Électricité et Avenir Énergétique : Refonte du Mode de Fonctionnement des Réseaux*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/transport)

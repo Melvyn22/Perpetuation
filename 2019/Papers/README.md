@@ -4,7 +4,11 @@ Contains the papers, presentations and other documents relative to the group's s
 
 ### Publications
 
-* [M. Tyloo, R. Delabays, and P. Jacquod, *Noise-induced Desynchronization and Stochastic Escape from Equilibrium in Complex Networks*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Stochastic_Escape)
+* [P. Jacquod, *Eigenstate Thermalization and Ensemble Equivalence in Few-Body Fermionic Systems*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Thermalization)
+
+* [J. Hindes, P. Jacquod, and I.B. Schwartz, *Network Desynchronization by Non-Gaussian Fluctuations*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/NonGaussian)
+
+* [M. Tyloo, R. Delabays, and P. Jacquod, *Noise-Induced Desynchronization and Stochastic Escape from Equilibrium in Complex Networks*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Stochastic_Escape)
 
 * [L. Pagnier, P. Jacquod, *Optimal Placement of Inertia and Primary Control : a Matrix Perturbation Theory Approach*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/perturbation_fin)
 
