@@ -26,7 +26,7 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ### List of presentations
 
-* [Optimal placement of inertia and primary control: Optimal placement of inertia and primary control, *IWCSN2019, Berlin, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/pagnier_iwcsn2019)
+* [Optimal placement of inertia and primary control: a matrix perturbation theory approach, *IWCSN2019, Berlin, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/pagnier_iwcsn2019)
 * [Optimal Placement of Inertia and Primary Control in High Voltage Power Grids, *Dynamics Days, Rostock, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Jacquod_Dynamics_Days_Rostock)
 * [The Key Player Problem in Realistic Large-Scale Power Grids, *Dynamics Days, Rostock, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Tyloo_Dynamics_Days_Rostock)
 * [Quantifying Vulnerabilities of Complex  Oscillatory Networks, *Johns Hopkins University, Baltimore, USA*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Johns_Hopkins_Tyloo)

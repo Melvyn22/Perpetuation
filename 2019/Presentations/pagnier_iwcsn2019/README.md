@@ -1,4 +1,4 @@
-# Optimal placement of inertia and primary control: Optimal placement of inertia and primary control,
+# Optimal placement of inertia and primary control: a matrix perturbation theory approach,
 
 Dated : September 25, 2019
 
