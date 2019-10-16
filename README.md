@@ -85,6 +85,7 @@ Contains the publications, presentations and other documents pertaining to the g
 ## List of presentations
 
 ### 2019
+* [Rate of Change of Frequency under line contingencies, *IWCSN 2019, Berlin, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/IWCSN19_Delabays)
 * [The Physics of Electric Power Systems, *Physics Colloquium, University of Basel, Switzerland*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Physics_Colloquium_Basel)
 * [Optimal placement of inertia and primary control: a matrix perturbation theory approach, *IWCSN2019, Berlin, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/pagnier_iwcsn2019)
 * [Optimal Placement of Inertia and Primary Control in High Voltage Power Grids, *Dynamics Days, Rostock, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Jacquod_Dynamics_Days_Rostock)
