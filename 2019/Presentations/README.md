@@ -4,8 +4,6 @@ Contains the papers, presentations and other documents relative to the group's s
 
 ### List of presentations
 
-(https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Jacquod_Dynamics_Days_Rostock)
-Network-Coupled Systems, *Berlin, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Tyloo_Humboldt)
 
 * [Near Equilibrium Dynamics and Transitions in Complex Network-Coupled Systems, *Berlin, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Tyloo_Humboldt)
 
