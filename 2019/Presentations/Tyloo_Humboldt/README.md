@@ -1,9 +1,8 @@
-# Near Equilibirum Dynamics and Transitions in Complex
-Network-Coupled Systems 
+# Near Equilibrium Dynamics and Transitions in Complex Network-Coupled Systems 
 
-Dated : 17/10/2019
+Dated : 17/10/2019 
 
-Group seminar at institute of physics, Humboldt university.
+Group seminar at the institute of physics, Humboldt university.
 
 **Authors :** Melvyn Tyloo<sup>1,2</sup> 
 
@@ -14,6 +13,6 @@ Group seminar at institute of physics, Humboldt university.
 
 
 
-<!-- keywords: network_robustness, Networks -->
+<!-- keywords: network_robustness, Networks-->
 
 <!-- link: -->
