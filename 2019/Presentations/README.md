@@ -4,6 +4,9 @@ Contains the papers, presentations and other documents relative to the group's s
 
 ### List of presentations
 
+(https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Jacquod_Dynamics_Days_Rostock)
+Network-Coupled Systems, *Berlin, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Tyloo_Humboldt)
+
 * [Rate of Change of Frequency under line contingencies, *IWCSN 2019, Berlin, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/IWCSN19_Delabays)
 
 * [The Physics of Electric Power Systems, *Physics Colloquium, University of Basel, Switzerland*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Physics_Colloquium_Basel)
