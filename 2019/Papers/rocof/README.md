@@ -1,6 +1,6 @@
 # Rate of change of frequency under line contingencies in high voltage electric power networks with uncertainties 
 
-Dated : June 2019 
+Dated : October 2019 
 
 [Chaos **29**, 103130 (2019)](https://aip.scitation.org/doi/10.1063/1.5115002)
 
