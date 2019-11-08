@@ -5,6 +5,8 @@ Contains the papers, presentations and other documents relative to the group's s
 ### List of presentations
 
 
+* [Robustness of elections results against external influence, *Torino*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/torino_election_robustness)
+
 * [Near Equilibrium Dynamics and Transitions in Complex Network-Coupled Systems, *Berlin, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Tyloo_Humboldt)
 
 * [Rate of Change of Frequency under line contingencies, *IWCSN 2019, Berlin, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/IWCSN19_Delabays)
