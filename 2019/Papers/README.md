@@ -4,6 +4,8 @@ Contains the papers, presentations and other documents relative to the group's s
 
 ### Publications
 
+* [Robin Delabays, *Dynamical equivalence between Kuramoto models with first- and higher-order coupling*, Chaos](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Delabays19c)
+
 * [P. Jacquod, *Eigenstate Thermalization and Ensemble Equivalence in Few-Body Fermionic Systems*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Thermalization)
 
 * [J. Hindes, P. Jacquod, and I.B. Schwartz, *Network Desynchronization by Non-Gaussian Fluctuations*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/NonGaussian)
