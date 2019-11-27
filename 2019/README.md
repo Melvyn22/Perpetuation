@@ -18,6 +18,7 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ### In the News
 
+* [Article dans Science Advances, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/In_the_News/Science_Advances_NF)
 * [Les trois piliers de la durabilité, *Le Nouvelliste*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/In_the_News/Durabilite_NF)
 * [Conférence Internationale à Champéry, *Canal 9*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/In_the_News/Champery_canal9)
 * [Changements politiques et consommateurs, *Canal 9*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/In_the_News/Champery_canal9_more)
