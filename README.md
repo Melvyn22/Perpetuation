@@ -4,6 +4,7 @@ Contains the publications, presentations and other documents pertaining to the g
 ## Publications
 
 ### 2019
+* [Robin Delabays, *Dynamical equivalence between Kuramoto models with first- and higher-order coupling*, Chaos](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Delabays19c)
 * [P. Jacquod, *Eigenstate Thermalization and Ensemble Equivalence in Few-Body Fermionic Systems*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Thermalization)
 * [J. Hindes, P. Jacquod, and I.B. Schwartz, *Network Desynchronization by Non-Gaussian Fluctuations*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/NonGaussian)
 * [M. Tyloo, R. Delabays, and P. Jacquod, *Noise-Induced Desynchronization and Stochastic Escape from Equilibrium in Complex Networks*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Stochastic_Escape)
@@ -86,6 +87,9 @@ Contains the publications, presentations and other documents pertaining to the g
 ## List of presentations
 
 ### 2019
+* [Robustness of elections results against external influence, *Torino*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/torino_election_robustness)
+* [Near Equilibrium Dynamics and Transitions in Complex Network-Coupled Systems, *Berlin, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Tyloo_Humboldt)
+* [Rate of Change of Frequency under line contingencies, *IWCSN 2019, Berlin, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/IWCSN19_Delabays)
 * [The Physics of Electric Power Systems, *Physics Colloquium, University of Basel, Switzerland*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Physics_Colloquium_Basel)
 * [Optimal placement of inertia and primary control: a matrix perturbation theory approach, *IWCSN2019, Berlin, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/pagnier_iwcsn2019)
 * [Optimal Placement of Inertia and Primary Control in High Voltage Power Grids, *Dynamics Days, Rostock, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Jacquod_Dynamics_Days_Rostock)
