@@ -4,6 +4,7 @@ Contains the publications, presentations and other documents pertaining to the g
 ## Publications
 
 ### 2019
+*  [M. Tyloo, L. Pagnier, P. Jacquod, *The Key Player Problem in Complex Oscillator Networks and Electric Power Grids: Resistance Centralities Identify Local Vulnerabilities*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/key_players)
 * [Robin Delabays, *Dynamical equivalence between Kuramoto models with first- and higher-order coupling*, Chaos](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Delabays19c)
 * [P. Jacquod, *Eigenstate Thermalization and Ensemble Equivalence in Few-Body Fermionic Systems*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Thermalization)
 * [J. Hindes, P. Jacquod, and I.B. Schwartz, *Network Desynchronization by Non-Gaussian Fluctuations*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/NonGaussian)
@@ -17,7 +18,6 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ### 2018
 *  [L. Pagnier, P. Jacquod, *Inertia Location and Slow Network Modes Determine Disturbance Propagation in Large-scale Power Grids*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/inertia)
-*  [M. Tyloo, L. Pagnier, P. Jacquod, *The Key Player Problem in Complex Oscillator Networks and Electric Power Grids: Resistance Centralities Identify Local Vulnerabilities*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/key_players)
 *  [L. Pagnier, P. Jacquod, *How Fast can one Overcome the Paradox of the Energy Transition? A Physico-economic Model for the European Power Grid*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Energy)
 * [M. Tyloo, T. Coletta, P. Jacquod , *Robustness of Synchrony in Complex Networks and Generalized Kirchhoff Indices*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Kirchhoff)
 * [L. Pagnier, P. Jacquod, *Swissgrid’s Strategic Grid 2025 : an Independent Analysis*](https://github.com/GeeeHesso/Perpetuation/tree/master/2018/Papers/Swissgrid_2025)
