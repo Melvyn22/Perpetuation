@@ -1,4 +1,4 @@
-# Dynamical equivalence between Kuramoto models with first- and higher-order coupling 
+# Dynamical Equivalence between Kuramoto Models with First- and Higher-order Coupling 
 
 Dated : November 2019 
 
