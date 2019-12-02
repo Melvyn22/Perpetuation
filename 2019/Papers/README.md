@@ -6,7 +6,7 @@ Contains the papers, presentations and other documents relative to the group's s
 
 *  [M. Tyloo, L. Pagnier, P. Jacquod, *The Key Player Problem in Complex Oscillator Networks and Electric Power Grids: Resistance Centralities Identify Local Vulnerabilities*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/key_players)
 
-* [Robin Delabays, *Dynamical equivalence between Kuramoto models with first- and higher-order coupling*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Delabays19c)
+* [Robin Delabays, *Dynamical Equivalence between Kuramoto Models with First- and Higher-order Coupling*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Delabays19c)
 
 * [P. Jacquod, *Eigenstate Thermalization and Ensemble Equivalence in Few-Body Fermionic Systems*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Thermalization)
 

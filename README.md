@@ -5,7 +5,7 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ### 2019
 *  [M. Tyloo, L. Pagnier, P. Jacquod, *The Key Player Problem in Complex Oscillator Networks and Electric Power Grids: Resistance Centralities Identify Local Vulnerabilities*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/key_players)
-* [Robin Delabays, *Dynamical equivalence between Kuramoto models with first- and higher-order coupling*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Delabays19c)
+* [Robin Delabays, *Dynamical Equivalence between Kuramoto Models with First- and Higher-order Coupling*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Delabays19c)
 * [P. Jacquod, *Eigenstate Thermalization and Ensemble Equivalence in Few-Body Fermionic Systems*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Thermalization)
 * [J. Hindes, P. Jacquod, and I.B. Schwartz, *Network Desynchronization by Non-Gaussian Fluctuations*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/NonGaussian)
 * [M. Tyloo, R. Delabays, and P. Jacquod, *Noise-Induced Desynchronization and Stochastic Escape from Equilibrium in Complex Networks*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Stochastic_Escape)
