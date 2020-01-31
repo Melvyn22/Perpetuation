@@ -4,4 +4,4 @@ Contains the papers, presentations and other documents relative to the group's s
 
 ### List of presentations
 
-* [Pizza talk n°1 *HES-SO, Sion*](https://github.com/GeeeHesso/Perpetuation/tree/master/2020/Presentations/pizza_talk)
+* [Pizza talk, *HES-SO, Sion*](https://github.com/GeeeHesso/Perpetuation/tree/master/2020/Presentations/pizza_talk)
