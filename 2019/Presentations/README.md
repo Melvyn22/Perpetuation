@@ -5,6 +5,8 @@ Contains the papers, presentations and other documents relative to the group's s
 ### List of presentations
 
 
+* [Local Vulnerabilities and Global Robustness of Coupled Dynamical Systems on Complex Networks, *EPFL*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/ex)
+
 * [Robustness of elections results against external influence, *Torino*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/torino_election_robustness)
 
 * [Near Equilibrium Dynamics and Transitions in Complex Network-Coupled Systems, *Berlin, Germany*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/Tyloo_Humboldt)
