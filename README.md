@@ -86,6 +86,9 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ## List of presentations
 
+### 2020
+* [Pizza talk n°1](https://github.com/GeeeHesso/Perpetuation/tree/master/2020/Presentations/pizza_talk)
+
 ### 2019
 * [Local Vulnerabilities and Global Robustness of Coupled Dynamical Systems on Complex Networks, *EPFL*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/ex)
 * [Robustness of elections results against external influence, *Torino*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/torino_election_robustness)

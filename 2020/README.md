@@ -14,4 +14,4 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ### List of presentations
 
-* None for now
+* [Pizza talk n°1](https://github.com/GeeeHesso/Perpetuation/tree/master/2020/Presentations/pizza_talk)
