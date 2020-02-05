@@ -4,4 +4,5 @@ Contains the papers, presentations and other documents relative to the group's s
 
 ### List of presentations
 
-* [Pizza talk, *HES-SO, Sion*](https://github.com/GeeeHesso/Perpetuation/tree/master/2020/Presentations/pizza_talk)
+* [Simple is Beautiful... But is it Useful?, *HES-SO, Sion*](https://github.com/GeeeHesso/Perpetuation/tree/master/2020/Presentations/simple_beautiful)
+* [Spectral geometry for Dynamical Systems on Complex Graphs, *GeoCow2020, Les Diablerets*](https://github.com/GeeeHesso/Perpetuation/tree/master/2020/Presentations/GeoCow2020)
