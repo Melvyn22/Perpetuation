@@ -88,7 +88,7 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ### 2020
 * [Simple is Beautiful... But is it Useful?, *HES-SO, Sion*](https://github.com/GeeeHesso/Perpetuation/tree/master/2020/Presentations/simple_beautiful)
-* [Spectral geometry for Dynamical Systems on Complex Graphs, *GeoCow2020, Les Diablerets*](https://github.com/GeeeHesso/Perpetuation/tree/master/2020/Presentations/GeoCow2020)
+* [Spectral Geometry for Dynamical Systems on Complex Graphs, *GeoCow2020, Les Diablerets*](https://github.com/GeeeHesso/Perpetuation/tree/master/2020/Presentations/GeoCow2020)
 ### 2019
 * [Local Vulnerabilities and Global Robustness of Coupled Dynamical Systems on Complex Networks, *EPFL*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/ex)
 * [Robustness of elections results against external influence, *Torino*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Presentations/torino_election_robustness)
