@@ -14,5 +14,6 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ### List of presentations
 
+* [Coupled Oscillators vs. Opinion Formation, *GeoCow2020, Les Diablerets*](https://github.com/GeeeHesso/Perpetuation/tree/master/2020/Presentations/GeoCow_poster_Tyloo)
 * [Simple is Beautiful... But is it Useful?, *HES-SO, Sion*](https://github.com/GeeeHesso/Perpetuation/tree/master/2020/Presentations/simple_beautiful)
 * [Spectral Geometry for Dynamical Systems on Complex Graphs, *GeoCow2020, Les Diablerets*](https://github.com/GeeeHesso/Perpetuation/tree/master/2020/Presentations/GeoCow2020)
