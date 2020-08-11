@@ -3,6 +3,9 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ## Publications
 
+### 2020
+* [Melvyn Tyloo, Philippe Jacquod, *Primary Control Effort under Fluctuating Power Generation in Realistic High-Voltage Power Networks*,  IEEE Control Systems Letters ( Volume: 5 , Issue: 3 , July 2021 )](https://github.com/GeeeHesso/Perpetuation/tree/master/2020/Papers/LCSS)
+
 ### 2019
 *  [M. Tyloo, L. Pagnier, P. Jacquod, *The Key Player Problem in Complex Oscillator Networks and Electric Power Grids: Resistance Centralities Identify Local Vulnerabilities*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/key_players)
 * [Robin Delabays, *Dynamical Equivalence between Kuramoto Models with First- and Higher-order Coupling*](https://github.com/GeeeHesso/Perpetuation/tree/master/2019/Papers/Delabays19c)

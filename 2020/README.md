@@ -6,7 +6,7 @@ Contains the publications, presentations and other documents pertaining to the g
 
 ### Publications
 
-* None for now
+* [Melvyn Tyloo, Philippe Jacquod, *Primary Control Effort under Fluctuating Power Generation in Realistic High-Voltage Power Networks*,  IEEE Control Systems Letters ( Volume: 5 , Issue: 3 , July 2021 )](https://github.com/GeeeHesso/Perpetuation/tree/master/2020/Papers/LCSS)
 
 ### In the News
 
