@@ -9,7 +9,7 @@ Many recent works in control of electric power systems have investigated their s
 1) School of Engineering, University of Applied Sciences of Western Switzerland, CH-1950 Sion, Switzerland
 2) Department of Quantum Matter Physics,University of Geneva, Geneva, Switzerland
 
-Also available online there : [Arxiv.org](https://ieeexplore.ieee.org/iel7/7782633/7912304/09133119.pdf) 
+Also available online there : [Arxiv.org](https://arxiv.org/abs/2006.16888) and IEEE, L-CSS (https://ieeexplore.ieee.org/iel7/7782633/7912304/09133119.pdf) 
 
 
 
